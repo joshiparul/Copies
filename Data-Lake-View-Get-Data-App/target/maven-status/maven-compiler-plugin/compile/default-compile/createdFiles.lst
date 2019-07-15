@@ -1,0 +1,5 @@
+com\syntel\digital\one\datalakeview\getdata\dto\ResponseTableDTO.class
+com\syntel\digital\one\datalakeview\getdata\daoImpl\DataLakeViewDataDaoImpl.class
+com\syntel\digital\one\datalakeview\getdata\app\SwaggerConfig.class
+com\syntel\digital\one\datalakeview\getdata\dto\ResponseDTO.class
+com\syntel\digital\one\datalakeview\getdata\constants\Constants.class
